@@ -1,0 +1,5 @@
+npx create-react-app . /* para criar um servidor react na pasta raiz
+npm install classnames@2.3.2
+npm install dompurify@3.0.3
+npm install emailjs-com@3.2.0
+npm install react-router-dom@6.11.2
