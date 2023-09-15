@@ -1,7 +1,7 @@
-const subheadingsData = {
+const subHeadingsData = {
     1:[
         {
-            tittle: "Sobre Mim",
+            title: "Sobre Mim",
             content: (
                 <>
                     <p>
@@ -13,7 +13,7 @@ const subheadingsData = {
     ],
     2:[
         {
-            tittle: "2016 Master Degress",
+            title: "2016 Master Degress",
             content: (
                 <>
                     <p>
@@ -23,7 +23,7 @@ const subheadingsData = {
             )
         },
         {
-            tittle: "2014 Bachelors Degrees",
+            title: "2014 Bachelors Degrees",
             content: (
                 <>
                     <p>
@@ -36,7 +36,7 @@ const subheadingsData = {
     ],
     3:[
         {
-            tittle: "2022 Front end Developer",
+            title: "2022 Front end Developer",
             content: (
                 <>
                     <p>
@@ -46,7 +46,7 @@ const subheadingsData = {
             )
         },
         {
-            tittle: "2020 UX Desiger",
+            title: "2020 UX Desiger",
             content: (
                 <>
                     <p>
@@ -56,7 +56,7 @@ const subheadingsData = {
             )
         },
         {
-            tittle: "2017 IT Consultant",
+            title: "2017 IT Consultant",
             content: (
                 <>
                     <p>
@@ -68,4 +68,4 @@ const subheadingsData = {
     ]
 }
 
-export default subheadingsData;
+export default subHeadingsData;
